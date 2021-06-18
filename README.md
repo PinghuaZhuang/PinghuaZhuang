@@ -9,4 +9,4 @@
 + 📧 zphua2016@gmail.com
 <br>
 
-- 🏡 home page: [pinghuazhuang.github.io](https://pinghuazhuang.github.io/)
+- 🏡 home page: <a href="https://pinghuazhuang.github.io" target="_blank">pinghuazhuang.github.io</a>
