@@ -8,7 +8,7 @@
 
 ---
 
-<details open>
+<details>
  <summary> 😇 <b>My Github Stats</b>: </summary>
 <br>
 <p align = "center">
