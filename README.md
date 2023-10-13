@@ -7,8 +7,8 @@ A passionate frontend developer. 😄
 
 ![VSCode](https://img.shields.io/badge/-VSCode-5a5a5a?logo=visualstudiocode) ![postman](https://img.shields.io/badge/-postman-5a5a5a?logo=postman) ![pnpm](https://img.shields.io/badge/-pnpm-5a5a5a?logo=pnpm) ![obsidian](https://img.shields.io/badge/-obsidian-5a5a5a?logo=obsidian) ![notion](https://img.shields.io/badge/-notion-5a5a5a?logo=notion) ![NS](https://img.shields.io/badge/-NS-5a5a5a?logo=nintendoswitch)
 
-+ 💼 Working at JiNiu.
-+ 📦 Worked at luckin coffee.
++ 💼 Job-waiting.
++ 📦 Worked at JiNiu.
 + 📧 zphua2016@gmail.com.
 + 👋 home page: <a href="https://pinghuazhuang.github.io" target="_blank">pinghuazhuang.github.io</a>
 
